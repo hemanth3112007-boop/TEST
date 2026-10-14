@@ -1,0 +1,6 @@
+{
+  "name": "Python Code Reviewer CLI & Studio",
+  "description": "AST-powered Python code reviewer that detects code smell, structural issues, and security anti-patterns with Gemini explanations, fixes, and CLI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
